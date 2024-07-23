@@ -1,0 +1,5 @@
+kivy==2.1.0
+openpyxl==3.0.9
+reportlab==3.6.10
+PyPDF2==3.0.0
+pywin32==305
